@@ -457,7 +457,7 @@
   
     <div id="main-content" class="container">
       <div class="jumbotron">
-        <img src="![jumbotron_768](https://user-images.githubusercontent.com/107862323/176472041-400db446-7434-46fe-9324-033dea1184a2.jpg)" alt="picture of restarunt" class="img-responsive visible-xs">
+        <img src="D:\IMAGES\jumbotron_768.jpg" alt="picture of restarunt" class="img-responsive visible-xs">
       </div>
         <div id="home-tiles" class="row">
           <div class="col-md-4 col-sm-6 col-xs-12">
